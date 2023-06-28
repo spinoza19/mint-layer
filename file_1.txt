@@ -1,4 +1,0 @@
-# mint-layer
-Commit 2
-Date: 2023-04-24T18:13:35Z
-Add core module

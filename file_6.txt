@@ -1,4 +1,0 @@
-# mint-layer
-Commit 7
-Date: 2024-07-18T15:51:50Z
-Improve error handling

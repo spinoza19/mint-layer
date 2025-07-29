@@ -1,4 +1,0 @@
-# mint-layer
-Commit 9
-Date: 2024-10-14T20:23:49Z
-Optimize performance
